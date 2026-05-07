@@ -61,13 +61,16 @@ MongoDB Community Server (v5.0 или по-нова).
 Python 3.8+.
 
 Инсталиране на зависимости:
+
 Bash
 
 pip install pymongo
+
 Стартиране:
 Уверете се, че MongoDB сървърът е активен (порт 27017).
 
-Стартирайте приложението: python nutrition_logger.py.
+Стартирайте приложението: 
+python nutrition_logger.py.
 
 6. Валидация и Сигурност
 
